@@ -17,5 +17,5 @@ Runing:
 1) input attention
 
 TO-DO:
-1) improve the speed of indexing entity tokens from sequence (2s/epch -> 11s/epoch)
+1) improve the speed of indexing entity tokens from sequence (2s/epoch -> 11s/epoch)
 2) macro-f1(excluding 'Other') monitor
