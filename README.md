@@ -9,9 +9,9 @@
 |entiAttnMatRNN|entity-wise|weight matrix|glove.d100|none|FALSE|val_acc|32| 82.70% |step|1|210s/epoch|
 |attnMatRNN|last hidden|weight matrix|glove.d100|PI|FALSE|val_acc|32| 80.93%|epoch|200|
 |attnMatRNN|last hidden|weight matrix|glove.d100|none|FALSE|val_acc|32| 68.83%|epoch|200|
-|attnRNN(baseline)|all hidden|weight vector|glove.d100|PI|FALSE|val_acc|32| 80.59%|epoch|200|2s/epoch|
-|attnRNN(baseline)|all hidden|weight vector|glove.d100|PI|FALSE|val_acc|32| 82.49%|step|1|9s/epoch|
-|attnRNN(baseline)|all hidden|weight vector|glove.d100|none|FALSE|val_acc|32|70.90%|epoch|200|2s/epoch|
+|attnRNN(baseline)|all hidden|weight vector|glove.d100|PI|FALSE|val_acc|32| 80.59%|epoch|200|3s/epoch|
+|attnRNN(baseline)|all hidden|weight vector|glove.d100|PI|FALSE|val_acc|32| 82.49%|step|1|10s/epoch|
+|attnRNN(baseline)|all hidden|weight vector|glove.d100|none|FALSE|val_acc|32|70.90%|epoch|200|3s/epoch|
 
 Runing:
 1) input attention
