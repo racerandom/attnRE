@@ -13,6 +13,9 @@
 |attnRNN(baseline)|all hidden|weight vector|glove.d100|PI|FALSE|val_acc|32| 82.49%|step|1|2s/epoch|
 |attnRNN(baseline)|all hidden|weight vector|glove.d100|none|FALSE|val_acc|32|70.90%|epoch|200|2s/epoch|
 
+Runing:
+1) input attention
+
 TO-DO:
 1) macro-f1(excluding 'Other') monitor
 2) improve the speed of indexing entity tokens from sequence (11s/epoch)
