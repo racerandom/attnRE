@@ -18,4 +18,4 @@ Runing:
 
 TO-DO:
 1) macro-f1(excluding 'Other') monitor
-2) improve the speed of indexing entity tokens from sequence (11s/epoch)
+2) improve the speed of indexing entity tokens from sequence (2s/epch -> 11s/epoch)
