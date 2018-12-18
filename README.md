@@ -17,6 +17,10 @@
 |attnRNN(baseline)|all hidden|weight vector|glove.d100|PI|val_acc|32|82.97%|10steps|200|12s/epoch|
 |RNN(baseline)|none|none|glove.d100|PI|val_acc|32| 81.87% |10steps|200|9s/epoch|
 
+Implemented
+1) several attention models and score functions
+2) ranking loss
+
 Runing:
 1) input attention
 
