@@ -18,8 +18,8 @@
 |RNN(baseline)|none|none|glove.d100|PI|val_acc|32| 81.87% |10steps|200|9s/epoch|
 
 pretrained word vector coverage:
-1)normal glove.d100 25636 vocab, 1622 are covered
-2)lowercase glove.d100 23433 vocab, 1621 words are covered
+1) normal glove.d100 25636 vocab, 1622 are covered
+2) lowercase glove.d100 23433 vocab, 1621 words are covered
 
 
 Implemented
